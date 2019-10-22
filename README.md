@@ -4,10 +4,9 @@
   <br/>De plus, vous aurez la possibilité d'utiliser votre assistant `Google Home` pour interagir avec Ruby. 
 
 ## _Documentation_
-
+  Le développement de Ruby a été créé sous Android Studio.
   
 ## _Visuel_
-
 
 ## _Licence_
   Ruby est gratuit et open source. Vous pouvez utiliser le code librement pour tous types de projets. 
